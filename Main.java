@@ -12,7 +12,6 @@ public class Main {
         the program should greet names Alice and Bob */
         //use control flow, cond, user ip, obj inst/dec, method invok
         
-        /* from IO lecture notes */
         System.out.println("What is your name? ");
         
         Scanner in = new Scanner(System.in);
